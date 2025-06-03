@@ -1,16 +1,37 @@
 ---
 ---
 
-/*@import "minima";*/
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #e0e0e0;
-  }
-  a {
-    color: #bb86fc;
-  }
-  /* Adicione mais estilos conforme necessário */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
+  font-size: 15px;
 }
+
+a {
+  color: #90caf9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+code, pre {
+  background-color: #1e1e1e;
+  color: #e8e8e8;
+  padding: 0.3em 0.6em;
+  border-radius: 4px;
+}
+
 
