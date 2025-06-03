@@ -1,4 +1,8 @@
 # Marco Antônio Barbosa Teixeira
+<img src="https://github.com/user-attachments/assets/1e8c52de-e853-4fcc-9424-f0e8aab0f9d9" height="240">
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
 
 Pesquisador no [Instituto Tecgraf da PUC-Rio](https://www.tecgraf.puc-rio.br/), atuando nas áreas de desenvolvimento de sistemas web, Realidade Virtual, Visao Computacional e Arquitetura de Sistemas. 
 Atualmente, desenvolvo pesquisas focadas em Gaussian Splatting In the Wild e outras iniciativas em Machine Learning, .
