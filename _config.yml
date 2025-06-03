@@ -1,1 +1,4 @@
-#theme: minima
+theme: jekyll-theme-hacker
+title: Marco Antonio Teixeira
+github:
+  is_project_page: false
