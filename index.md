@@ -31,7 +31,7 @@ Atualmente, desenvolvo pesquisas focadas em Gaussian Splatting In the Wild e out
 
 ## 📁 Projetos Recentes
 
-### Embed and Masks [Embed and Masks](https://mteixeiratecgraf.github.io/Embed-n-Masks/) 
+### [Embed and Masks](https://mteixeiratecgraf.github.io/Embed-n-Masks/) 
 Sistema de renderização neural para ambientes reais com uso de embeddings de aparência e máscaras de oclusão, visando melhorar robustez de visualização em cenas complexas. Utiliza Segment Anything, técnicas de aprendizado profundo e pipeline de oclusão dinâmico.
 
 ### Plan360
